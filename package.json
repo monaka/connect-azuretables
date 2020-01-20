@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "azure-storage": "2.0.0",
-    "cron": "1.2.1"
+    "cron": "1.8.1"
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
