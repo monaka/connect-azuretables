@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
-    "express-session": "1.15.1",
+    "express-session": "1.17.1",
     "istanbul": "0.4.5",
     "jasmine": "2.5.3",
     "jasmine-spec-reporter": "3.2.0",
